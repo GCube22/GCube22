@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)][(https://github.com/GCube22/threat-hunting-scenario-tor?tab=readme-ov-file).**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GCube22/threat-hunting-scenario-tor?tab=readme-ov-file).**
 
 <hr/>
 
